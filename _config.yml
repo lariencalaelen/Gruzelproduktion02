@@ -23,11 +23,8 @@ email: gruzelproduktion@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Hello Errybodi :>
   This site is in some kind of progress - please keep yourself posted and come back later.
-  Oh and also - feel welcome to our exhibition
-   03.-05. Mai 2024 
-   Location: büro für // Halle (Saale)
-   or check out 17xi.space
-baseurl: "gh-pages" # the subpath of your site, e.g. /blog
+ 
+baseurl: "Gruzelproduktion02" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 defaults: 
